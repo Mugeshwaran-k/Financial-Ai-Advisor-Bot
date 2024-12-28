@@ -13,6 +13,7 @@
     "db:studio": "drizzle-kit studio"
   },
   "dependencies": {
+    "@ai-sdk/google": "^1.0.12",
     "@ai-sdk/openai": "^1.0.11",
     "@clerk/backend": "^1.1.5",
     "@clerk/nextjs": "^5.0.9",

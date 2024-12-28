@@ -31,6 +31,7 @@ export default function ChatSupport() {
     handleSubmit,
     isLoading,
   } = useChat({
+    api: "/api/chat",
     onResponse(response) {
       if (response) {
         setIsGenerating(false);
