@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1715964592359,
+      "tag": "0000_slow_dorian_gray",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1715966396880,
+      "tag": "0001_superb_firebrand",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1716903795262,
+      "tag": "0002_new_anita_blake",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1716918045852,
+      "tag": "0003_curious_logan",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1716918459393,
+      "tag": "0004_ambitious_anthem",
+      "breakpoints": true
+    }
+  ]
+}
